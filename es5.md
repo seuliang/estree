@@ -1,7 +1,8 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 This document specifies the core ESTree AST node types that support the ES5 grammar.
-
+//使用第二级表示类型
+//Expression, Pattern 在后文表示
 - [Node objects](#node-objects)
 - [Identifier](#identifier)
 - [Literal](#literal)
